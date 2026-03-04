@@ -1,1 +1,1 @@
-# collbaration-with-github-2026
+# collaboration-with-github-2026
