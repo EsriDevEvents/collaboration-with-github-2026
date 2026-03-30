@@ -20,7 +20,7 @@ It focuses on the core workflow many developers need to understand early on:
 
 ## Slide deck
 
-- [Developer Collaboration with Git and GitHub (PDF)]()
+- [Developer Collaboration with Git and GitHub (PDF)](https://github.com/EsriDevEvents/collaboration-with-github-2026/blob/main/Developer-Collaboration-with-Git-and-GitHub-Esri-Dev-Tech-2026.pdf)
 
 ## Session summary
 
